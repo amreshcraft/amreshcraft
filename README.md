@@ -5,6 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **[BookStore](https://github.com/amreshcraft/bookstore)**
+- Cloud - AWS - EC2,S3
 - 🌱 Focused on **Backend Development & System Design**
 - 🧠 Exploring **Distributed Systems & Cloud (AWS)**
 - 🌐 Portfolio: **[amreshmaurya.com](https://amreshmaurya.com)**
