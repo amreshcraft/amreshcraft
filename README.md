@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amresh Maurya</h1>
-<h3 align="center">Backend Developer | Building Scalable Systems 🚀</h3>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
