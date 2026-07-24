@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amresh Maurya</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **[BookStore](https://github.com/amreshcraft/bookstore)**
+- 🔭 Currently working on **[Payflow](https://github.com/amreshcraft/payflow)**
 - Cloud - AWS - EC2,S3
 - 🌱 Focused on **Backend Development & System Design**
-- 🧠 Exploring **Distributed Systems & Cloud (AWS)**
+- 🧠 Exploring **Springboot & Cloud (AWS)**
 - 🌐 Portfolio: **[amreshmaurya.com](https://amreshmaurya.com)**
 - 📫 Reach me at: **amresh.terminal@gmail.com**
 - ⚡ Fun fact: *I am funny 😄*
@@ -46,10 +46,7 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
 </p>
 
-#### 🎨 Frontend (Basic)
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript" />
-</p>
+
 
 ---
 
