@@ -3,10 +3,9 @@
 
 ---
 ### 👨‍💻 About Me
-- 🔭 Currently working on **[Payflow](https://github.com/amreshcraft/payflow)**
-- Cloud - AWS - EC2,S3
-- 🌱 Focused on **Backend Development & System Design**
-- 🧠 Exploring **Springboot & Cloud (AWS)**
+
+- 🌱 Focused on **Backend Development & AI**
+- 🧠 Exploring **AI & Cloud (AWS)**
 - 🌐 Portfolio: **[amreshmaurya.com](https://amreshmaurya.com)**
 - 📫 Reach me at: **amresh.terminal@gmail.com**
 - ⚡ Fun fact: *I am funny 😄*
